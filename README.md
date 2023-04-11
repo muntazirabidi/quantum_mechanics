@@ -31,4 +31,4 @@ Students are encouraged to contribute to this repository by suggesting improveme
 For any questions or concerns, please feel free to contact me via email at muntazir.mehdi@hsse.abib.edu.pk. Additionally, you may create an issue on this repository to discuss any course-related matters.
 Let's have an exciting and productive semester delving into the fascinating world of quantum mechanics!
 
-![GitHub Logo] (/Notes/cat.jpeg)
+![GitHub Logo] (https://github.com/muntazirabidi/quantum_mechanics/blob/main/Notes/cat.jpeg)
