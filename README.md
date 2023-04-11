@@ -4,7 +4,7 @@
 Welcome to the Quantum Mechanics course offered at Habib University in Spring 2023! This GitHub repository is a central hub for all course materials, including lecture notes, books, resources, example sheets, solutions, exams, and quizzes. As an instructor, I will regularly update this repository to ensure all materials are up-to-date and accessible to students.
 
 ## Course Overview
-This course introduces the principles and mathematical formalism of quantum mechanics. Topics covered include wave-particle duality, Schrödinger's equation, quantum states, operators, quantum superposition, and entanglement. Throughout the semester, we will explore the development of quantum mechanics, its applications, and its impact on our understanding of the physical world.
+This course introduces the principles and mathematical formalism of quantum mechanics. Topics covered include wave-particle duality, Schrödinger's equation, quantum states, operators, and quantum superposition. Throughout the semester, we will explore the development of quantum mechanics, its applications, and its impact on our understanding of the physical world.
 
 ##Prerequisites
 Students are expected to have a solid foundation in classical mechanics, calculus, linear algebra, and differential equations. A basic understanding of complex numbers and probability theory will also be beneficial.
